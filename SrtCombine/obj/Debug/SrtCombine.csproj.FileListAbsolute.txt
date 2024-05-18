@@ -1,0 +1,14 @@
+E:\Private_Project\OtherforApp\SrtCombine\SrtCombine\bin\Debug\SrtCombine.exe.config
+E:\Private_Project\OtherforApp\SrtCombine\SrtCombine\bin\Debug\SrtCombine.exe
+E:\Private_Project\OtherforApp\SrtCombine\SrtCombine\bin\Debug\SrtCombine.pdb
+E:\Private_Project\OtherforApp\SrtCombine\SrtCombine\obj\Debug\SrtCombine.csprojAssemblyReference.cache
+E:\Private_Project\OtherforApp\SrtCombine\SrtCombine\obj\Debug\SrtCombine.Form1.resources
+E:\Private_Project\OtherforApp\SrtCombine\SrtCombine\obj\Debug\SrtCombine.Properties.Resources.resources
+E:\Private_Project\OtherforApp\SrtCombine\SrtCombine\obj\Debug\SrtCombine.csproj.GenerateResource.cache
+E:\Private_Project\OtherforApp\SrtCombine\SrtCombine\obj\Debug\SrtCombine.csproj.CoreCompileInputs.cache
+E:\Private_Project\OtherforApp\SrtCombine\SrtCombine\obj\Debug\SrtCombine.exe
+E:\Private_Project\OtherforApp\SrtCombine\SrtCombine\obj\Debug\SrtCombine.pdb
+E:\Private_Project\OtherforApp\SrtCombine\SrtCombine\bin\Debug\SrtCombine.exe.manifest
+E:\Private_Project\OtherforApp\SrtCombine\SrtCombine\bin\Debug\SrtCombine.application
+E:\Private_Project\OtherforApp\SrtCombine\SrtCombine\obj\Debug\SrtCombine.exe.manifest
+E:\Private_Project\OtherforApp\SrtCombine\SrtCombine\obj\Debug\SrtCombine.application

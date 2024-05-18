@@ -1,0 +1,13 @@
+E:\Private_Project\OtherforApp\SrtCombine\SrtCombine\bin\Release\SrtCombine.exe.config
+E:\Private_Project\OtherforApp\SrtCombine\SrtCombine\bin\Release\SrtCombine.exe.manifest
+E:\Private_Project\OtherforApp\SrtCombine\SrtCombine\bin\Release\SrtCombine.application
+E:\Private_Project\OtherforApp\SrtCombine\SrtCombine\bin\Release\SrtCombine.exe
+E:\Private_Project\OtherforApp\SrtCombine\SrtCombine\bin\Release\SrtCombine.pdb
+E:\Private_Project\OtherforApp\SrtCombine\SrtCombine\obj\Release\SrtCombine.Form1.resources
+E:\Private_Project\OtherforApp\SrtCombine\SrtCombine\obj\Release\SrtCombine.Properties.Resources.resources
+E:\Private_Project\OtherforApp\SrtCombine\SrtCombine\obj\Release\SrtCombine.csproj.GenerateResource.cache
+E:\Private_Project\OtherforApp\SrtCombine\SrtCombine\obj\Release\SrtCombine.csproj.CoreCompileInputs.cache
+E:\Private_Project\OtherforApp\SrtCombine\SrtCombine\obj\Release\SrtCombine.exe.manifest
+E:\Private_Project\OtherforApp\SrtCombine\SrtCombine\obj\Release\SrtCombine.application
+E:\Private_Project\OtherforApp\SrtCombine\SrtCombine\obj\Release\SrtCombine.exe
+E:\Private_Project\OtherforApp\SrtCombine\SrtCombine\obj\Release\SrtCombine.pdb
